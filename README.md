@@ -1,4 +1,4 @@
-<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40">
 <div id="header" align="center">
     <img    src="https://media.tenor.com/tr7iLNCkE7EAAAAi/code.gif" width="100"/>
 </div>
