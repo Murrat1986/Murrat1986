@@ -22,11 +22,11 @@
 <h2>
 О себе
 </h2>
-<img src="https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=800">
+<img src="https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=800" align="center">
 
 ---
 ###  :man_technologist: About Me :
-I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azebajcan.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
