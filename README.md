@@ -16,13 +16,13 @@
 </div>
 <h1>
     Hey there
-    <img src="https://komarev.com/ghpvc/?username=Murrat1986&style=flat-square&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=Murrat1986&style=flat-square&color=blue" >
 </h1>
 
 <h2>
 О себе
 </h2>
-<img src="https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=600" height="300">
+<img src="https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=800">
 
 ---
 ###  :man_technologist: About Me :
