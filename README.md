@@ -1,9 +1,9 @@
-
+<!-- <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="100"> -->
 <div id="header" align="center">
     <img    src="https://media.tenor.com/tr7iLNCkE7EAAAAi/code.gif" width="100"/>
 </div>
 
-<div id="badges" align="center" >
+<div id="badges" display="flex" flex-direction="column">
     <a href="https://www.linkedin.com/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -14,19 +14,16 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
-<h1>
+<h1 align="center">
     Hey there
-    <img src="https://komarev.com/ghpvc/?username=Murrat1986&style=flat-square&color=blue" >
+    <img src="https://komarev.com/ghpvc/?username=Murrat1986&style=flat-square&color=blue">
 </h1>
 
-<h2>
-О себе
-</h2>
-<img src="https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=800" align="center">
+<img src="https://img.freepik.com/premium-photo/i-am-web-developer-programmer-developer-engineer-programming-software-app-design-cartoon-modern-illustrator_76964-148054.jpg?w=600" height="300">
 
 ---
 ###  :man_technologist: About Me :
-I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azebajcan.
+I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -55,3 +52,11 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murrat1986&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murrat1986)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
